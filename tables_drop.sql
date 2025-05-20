@@ -1,0 +1,7 @@
+USE food_system11;
+
+DROP TABLE IF EXISTS Orders;
+DROP TABLE IF EXISTS Foods;
+DROP TABLE IF EXISTS Professors;
+DROP TABLE IF EXISTS Students;
+DROP TABLE IF EXISTS Departments;
